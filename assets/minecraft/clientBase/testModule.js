@@ -1,0 +1,1 @@
+moduleManager.registerModule("TESTMODULE!!!", "Render");
